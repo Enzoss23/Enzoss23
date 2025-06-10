@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá! Eu sou o Enzo 👋
 
-<!--
-**Enzoss23/Enzoss23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, sempre em busca de novos aprendizados e desafios.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Tecnologias que uso no meu dia a dia:
+
+- ⚡ JavaScript
+- 🌐 Node.js
+- ⚛️ React.js
+- 🖥️ HTML e CSS
+- 🛠️ ABAP (SAP)
+
+---
+
+📊 **Linguagens mais usadas nos meus repositórios:**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoss23&layout=compact&theme=radical)
+
+---
+
+📫 Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou apenas trocar uma ideia!
