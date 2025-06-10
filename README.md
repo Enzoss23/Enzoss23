@@ -29,8 +29,4 @@
 
 ---
 
-### 📫 Vamos nos conectar?
-
-<p align="center">
-  🚀 Em breve: links para redes sociais, portfólio e mais!
-</p>
+### 📫 Vamos nos conectar? Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou apenas trocar uma ideia!
